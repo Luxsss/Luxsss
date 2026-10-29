@@ -1,12 +1,21 @@
-### Hi there 👋
+# Hi, I'm Alexis 👋
 
+🎓 MSc student in **Cloud & DevOps** at **Epitech** · 💼 Work-study apprentice · 🇫🇷 France
 
-- 🔭 I’m currently working on projects ...
+I build web projects and I'm diving deeper into cloud infrastructure, automation and deployment.
 
-- 🌱 I’m currently learning how to improve myself in web devlopement ^^
+### 🛠️ Tech I use
+![](https://skillicons.dev/icons?i=nextjs,astro,symfony,php,python,git)
 
-- 👯 I’m looking to collaborate on with everyone who wants to share there knowledge with me and I with them
+<!-- Add DevOps tools as you use them, e.g. docker,linux,kubernetes,aws,terraform,githubactions -->
 
-- 💬 Ask me about your hobby's and what you like :)
+### 🌍 Languages
+English · French · Spanish
 
-- 📫 How to reach me: alexsdev@outlook.fr
+### 🧗 Outside of code
+Climbing and video games 🎮
+
+### 📫 Reach me
+[alexsdev@outlook.fr](mailto:alexsdev@outlook.fr)
+
+<!-- Add later: · [LinkedIn](https://linkedin.com/in/...) · [Portfolio](https://...) -->
