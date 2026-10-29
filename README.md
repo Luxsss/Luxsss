@@ -9,4 +9,4 @@
 
 - 💬 Ask me about your hobby's and what you like :)
 
-- 📫 How to reach me: alexisbn@outlook.com
+- 📫 How to reach me: alexsdev@outlook.fr
